@@ -40,7 +40,7 @@ version = "=23.0.1"
 #rev = "bd0c80a1fe171e75f8d745f17975a73927d44ecd"
 
 [workspace.dependencies.soroban-env-host]
-version = "=23.0.1"
+version = "=26.0.0"
 #git = "https://github.com/stellar/rs-soroban-env"
 #rev = "bd0c80a1fe171e75f8d745f17975a73927d44ecd"
 
@@ -48,7 +48,7 @@ version = "=23.0.1"
 version = "=0.0.13"
 
 [workspace.dependencies.stellar-xdr]
-version = "=23.0.0"
+version = "=26.0.0"
 default-features = false
 features = ["curr"]
 #git = "https://github.com/stellar/rs-stellar-xdr"
